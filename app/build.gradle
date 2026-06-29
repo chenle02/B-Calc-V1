@@ -8,7 +8,7 @@ android {
         applicationId 'com.chenboda01.bcalcv1'
         minSdk 23
         targetSdk 35
-        versionCode 2
+        versionCode 3
         versionName '1.1'
     }
 }
