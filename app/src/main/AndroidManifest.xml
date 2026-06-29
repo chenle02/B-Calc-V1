@@ -5,7 +5,7 @@
         <package android:name="com.chenboda01.btasksv1" />
         <package android:name="com.chenboda01.bnotesv1" />
     </queries>
-    <application android:label="B-Calc V1" android:icon="@drawable/ic_launcher" android:theme="@style/AppTheme">
+    <application android:label="B-Calc V1.1" android:icon="@drawable/ic_launcher" android:theme="@style/AppTheme">
         <activity android:name=".MainActivity" android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
